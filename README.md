@@ -2,9 +2,7 @@
 
 A ready-to-use template for integrating Claude AI into your GitHub workflow.
 Includes a GitHub Actions workflow, a `CLAUDE.md` config, and a setup guide.
-
 ---
-
 ## ✨ Features
 
 - **`@claude` mentions** — Tag Claude in any PR or issue comment to get AI assistance
@@ -13,7 +11,6 @@ Includes a GitHub Actions workflow, a `CLAUDE.md` config, and a setup guide.
 - **Claude Projects sync** — Instructions for connecting your repo to claude.ai Projects
 
 ---
-
 ## 🚀 Quick Setup
 
 ### Step 1 – Add your Anthropic API Key to GitHub Secrets
